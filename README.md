@@ -3,4 +3,16 @@ Obviously, it is called **README**, so you are **reading** me now. Also I made [
 You can talk to me at [discord.gg/:eyes:](https://discord.gg/2JrxEPtszD).
 
 ![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
-![Gaurav](https://github.com/Gaurav007783/Gaurav007783/blob/main/dance.gif)
+![Gaurav](https://github.com/Shadowaf/Shadowaf/blob/main/dance.gif)
+
+## Visitors
+![Gaurav](https://profile-counter.glitch.me/Shadowaf/count.svg)
+
+</span>
+
+<span float="center" height=200>
+  <h2>Github Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Shadowaf&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91" float="left" />
+  <h2>Most used languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shadowaf&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159" float="right" />
+</span>

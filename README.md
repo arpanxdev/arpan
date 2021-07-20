@@ -16,3 +16,5 @@ You can talk to me at [discord.gg/:eyes:](https://discord.gg/2JrxEPtszD).
   <h2>Most used languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shadowaf&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159" float="right" />
 </span>
+
+<a href="https://github.com/Shadowaf/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shadowaf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

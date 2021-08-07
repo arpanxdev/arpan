@@ -8,7 +8,6 @@ You can talk to me at [discord.gg/:eyes:](https://discord.gg/2JrxEPtszD).
 ## Visitors
 ![Gaurav](https://profile-counter.glitch.me/Shadowaf/count.svg)
 
-[![Gaurav](https://discord.c99.nl/widget/theme-3/536043344569303041.png)](https://discord.c99.nl/widget/theme-3/536043344569303041.png)
 
 </span>
 

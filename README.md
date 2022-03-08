@@ -1,6 +1,6 @@
-Obviously, it is called **README**, so you are **reading** me now. Also I made [that one Discord bot](https://discord.com/oauth2/authorize?client_id=825617171589759006&permissions=2113268958&redirect_uri=https://discord.gg/2JrxEPtszD&response_type=code&scope=bot).
+Obviously, it is called **README**, so you are **reading** me now. Also I made [that one Discord bot](https://discord.com/oauth2/authorize?client_id=825617171589759006&permissions=2113268958&redirect_uri=https://discord.gg/Flantic&response_type=code&scope=bot%20applications.commands).
 
-You can talk to me at [discord.gg/:eyes:](https://discord.gg/2JrxEPtszD).
+You can talk to me at [discord.gg/:eyes:](https://discord.gg/Flantic).
 
 ![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
 ![Gaurav](https://github.com/Shadowaf/Shadowaf/blob/main/dance.gif)
@@ -23,4 +23,4 @@ You can talk to me at [discord.gg/:eyes:](https://discord.gg/2JrxEPtszD).
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shadowaf's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadowaf&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/Shadowaf/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shadowaf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Shadowaf/github-readme-activity-graph"><img alt="Shadowaf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shadowaf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

@@ -1,6 +1,7 @@
-Obviously, it is called **README**, so you are **reading** me now.
-
+Obviously, It's **README**, so you are **reading** me now. Not funny 😂
 ![challenge](https://i.alexflipnote.dev/4h93guy.png)
+
+##
 ![Gaurav](https://github.com/GauravRao7/GauravRao7/blob/main/dance.gif)
 
 ## Visitors
@@ -12,9 +13,8 @@ Obviously, it is called **README**, so you are **reading** me now.
 ## Most used languages
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GauravRao7&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159)
 
-<p align="left">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img alt="Gaurav's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravRao7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<a href="https://github.com/GauravRao7/github-readme-activity-graph"><img alt="Gaurav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GauravRao7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+## Commits Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravRao7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+
+## Activity Graph
+![Acitvity](https://activity-graph.herokuapp.com/graph?username=GauravRao7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)

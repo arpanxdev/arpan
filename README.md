@@ -11,20 +11,20 @@
 ![challenge](https://i.alexflipnote.dev/4h93guy.png)
 
 ## Visitors
-![Gaurav](https://profile-counter.glitch.me/GauravWTF/count.svg)
+![Gaurav](https://profile-counter.glitch.me/gauravwtf/count.svg)
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravWTF&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravwtf&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GauravWTF&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gauravwtf&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravWTF&theme=black-ice&hide_border=true&stroke=0000&background=6e7e91)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravwtf&theme=black-ice&hide_border=true&stroke=0000&background=6e7e91)
 
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=GauravWTF&theme=nord&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=gauravwtf&theme=nord&column=7)
 
 ## 🌱 I’m currently learning
 
@@ -46,7 +46,7 @@
 - [![Twitter][2.2]][1] [Twitter (i dont have one)](https://twitter.com/none)
 - [![LinkedIn][3.2]][2] [LinkedIn (same^)](https://www.linkedin.com/in/none/)
 
-[1.2]: https://raw.githubusercontent.com/GauravWTF/GauravWTF/main/discord.svg
+[1.2]: https://raw.githubusercontent.com/gauravwtf/gauravwtf/main/discord.svg
 [2.2]: http://i.imgur.com/wWzX9uB.png (Twitter icon)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon)
 
@@ -56,4 +56,4 @@
 
 ## 🎥 Fun GIF
 
-![fun-gif](https://github.com/GauravWTF/GauravWTF/raw/main/dance.gif)
+![fun-gif](https://github.com/gauravwtf/gauravwtf/raw/main/dance.gif)

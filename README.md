@@ -4,7 +4,7 @@
 
 - Obviously, It's **README**, so you are **reading** me now.
 - I'm a **smart-ass** self-learning developer with a passion for creating things that works and helps. I love working on Ai, bots, websites and contributing to open-source projects.
-- You can reach me on [discord](https://discord.com/users/380697024120487939)
+- You can reach me on [discord](https://discord.gg/gaurav)
 - I'm from Haryana, India!
 
 ## ⁉️ Did you read?

@@ -5,7 +5,7 @@
 - Obviously, It's **README**, so you are **reading** me now.
 - I'm a **smart-ass** self-learning developer with a passion for creating things that works and helps. I love working on Ai, bots, websites and contributing to open-source projects.
 - You can reach me on [discord](https://discord.gg/gaurav)
-- I'm from Haryana, India!
+- I'm from West Bengal, India!
 
 ## ⁉️ Did you read?
 ![challenge](https://i.alexflipnote.dev/4h93guy.png)
@@ -15,16 +15,16 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravwtf&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wtfarpan&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gauravwtf&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wtfarpan&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravwtf&theme=black-ice&hide_border=true&stroke=0000&background=6e7e91)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wtfarpan&theme=black-ice&hide_border=true&stroke=0000&background=6e7e91)
 
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=gauravwtf&theme=nord&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=wtfarpan&theme=nord&column=7)
 
 ## 🌱 I’m currently learning
 
@@ -42,18 +42,18 @@
 
 ## 📫 How to reach me
 
-- [![Discord][1.2]][1] [Discord](https://discord.com/users/380697024120487939)
+- [![Discord][1.2]][1] [Discord](https://discord.com/users/1005148352343724032)
 - [![Twitter][2.2]][1] [Twitter (i dont have one)](https://twitter.com/none)
 - [![LinkedIn][3.2]][2] [LinkedIn (same^)](https://www.linkedin.com/in/none/)
 
-[1.2]: https://raw.githubusercontent.com/gauravwtf/gauravwtf/main/discord.svg
+[1.2]: https://raw.githubusercontent.com/wtfarpan/wtfarpan/main/discord.svg
 [2.2]: http://i.imgur.com/wWzX9uB.png (Twitter icon)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon)
 
-[1]: https://discord.com/users/380697024120487939
+[1]: https://discord.com/users/1005148352343724032
 [2]: https://twitter.com/none
 [3]: https://www.linkedin.com/in/none/
 
 ## 🎥 Fun GIF
 
-![fun-gif](https://github.com/gauravwtf/gauravwtf/raw/main/dance.gif)
+![fun-gif](https://github.com/wtfarpan/wtfarpan/raw/main/dance.gif)

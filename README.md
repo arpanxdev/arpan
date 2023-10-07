@@ -1,10 +1,10 @@
-# Hi there, I'm Gaurav 👋
+# Hi there, I'm Arpan 👋
 
 <!-- ![header](https://user-images.githubusercontent.com/your-image-url) -->
 
 - Obviously, It's **README**, so you are **reading** me now.
 - I'm a **smart-ass** self-learning developer with a passion for creating things that works and helps. I love working on Ai, bots, websites and contributing to open-source projects.
-- You can reach me on [discord](https://discord.gg/gaurav)
+- You can reach me on [discord](https://discord.gg/moosic)
 - I'm from West Bengal, India!
 
 ## ⁉️ Did you read?
@@ -51,7 +51,7 @@
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon)
 
 [1]: https://discord.com/users/1005148352343724032
-[2]: https://twitter.com/none
+[2]: https://twitter.com/thearpan_
 [3]: https://www.linkedin.com/in/none/
 
 ## 🎥 Fun GIF
